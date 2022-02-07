@@ -8,3 +8,4 @@ __pycache__/
 # Untracked
 .vscode/
 untracked/
+pico-go.json
